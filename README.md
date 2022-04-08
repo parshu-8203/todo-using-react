@@ -2,6 +2,18 @@
   
   Created a Todo Web Application using react-hooks
   
+ # Features
+  
+   We can Add, Modify, Remove Events. 
+   
+   # Add 
+   We Add events by clicking **Add Todo**
+   
+   # Modify
+   We can modify already existing event by clicking on **Update** icon. 
+   
+   # remove 
+   We can remove events by clicking on **Remove** icon.
  
 # Preview 
 
