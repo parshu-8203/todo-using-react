@@ -4,10 +4,11 @@
   
  # Features
   
-   <ol>
-  <li>j</li>
-   </ol>  
-   We can Add, Modify, Remove Events. 
+   <ul>
+  <li>We can Add Task</li>
+  <li>We can Modify Task</li>
+  <li>Delete Task</li>
+   </ul>  
    
    # Add 
    We Add events by clicking **Add Todo**
