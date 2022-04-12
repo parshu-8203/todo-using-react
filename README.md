@@ -16,7 +16,7 @@
    <h2> Modify </h2>
    We can modify already existing event by clicking on **Update** icon. 
    
-   <h2> remove </h2> 
+   <h2> Remove </h2> 
    We can remove events by clicking on **Remove** icon.
  
 # Preview 
