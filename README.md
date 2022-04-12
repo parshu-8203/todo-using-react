@@ -11,13 +11,13 @@
    </ul>  
    
    <h2>Add</h2> 
-   We Add events by clicking **Add Todo**
+   We Add events by clicking <b>Add Todo</b>
    
    <h2> Modify </h2>
    We can modify already existing event by clicking on <b>Update</b> icon. 
    
    <h2> Remove </h2> 
-   We can remove events by clicking on **Remove** icon.
+   We can remove events by clicking on <b>Remove</b> icon.
   
 # Technologies 
  <ul>
