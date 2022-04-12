@@ -2,7 +2,7 @@
   
   Created a Todo Web Application using react-hooks
   
- # Features
+# Features
   
    <ul>
   <li>We can Add Task</li>
@@ -19,7 +19,7 @@
    <h2> Remove </h2> 
    We can remove events by clicking on **Remove** icon.
   
- # Technologies 
+# Technologies 
  <ul>
   <li>HTML</li>
   <li>CSS</li>
