@@ -18,6 +18,14 @@
    
    <h2> Remove </h2> 
    We can remove events by clicking on **Remove** icon.
+  
+ # Technologies 
+ <ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>React</li>
+  </ul>
  
 # Preview 
 
