@@ -14,7 +14,7 @@
    We Add events by clicking **Add Todo**
    
    <h2> Modify </h2>
-   We can modify already existing event by clicking on **Update** icon. 
+   We can modify already existing event by clicking on <b>Update</b> icon. 
    
    <h2> Remove </h2> 
    We can remove events by clicking on **Remove** icon.
